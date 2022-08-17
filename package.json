@@ -1,5 +1,5 @@
 {
-  "name": "web3-cli",
+  "name": "web3-storage-cli",
   "version": "0.0.3",
   "description": "CLI tools for using web3.storage",
   "main": "dist/index.js",
