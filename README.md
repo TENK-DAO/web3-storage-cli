@@ -1,7 +1,7 @@
 # CLI for using web3.storage
 
 ```bash
-npm install -g web3-cli
+npm install -g web3-storage-cli
 ```
 
 ## Pack directory into `.car` file
